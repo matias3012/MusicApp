@@ -1,5 +1,5 @@
 class PlaylistsController < ApplicationController
   def index
-    @playlists = Playlist.all
+    # @playlists = Playlist.all
   end
 end
