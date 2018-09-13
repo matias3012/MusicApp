@@ -6,3 +6,5 @@ class CreatePlaylists < ActiveRecord::Migration[5.2]
     end
   end
 end
+class Playlist < ActiveRecords::Base
+end
